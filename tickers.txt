@@ -1,7 +1,6 @@
-NVIDIA
-NVDA
+tesla, tsla, tla, tslz
+nvidia, nvda
 tsmc
-djt
+trump, djt
 tiktok
-tesla
-tsla
+amd
